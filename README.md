@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @utxob
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">👋 Hi, I'm a Passionate Learner</h1>
 
-<!---
-utxob/utxob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🌐 Web Development | 🛡️ Cybersecurity | 🤖 Automation | 📦 File Systems | 🧠 AI Tools
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm on a mission to become a powerful developer with skills in both **Frontend** and **Backend**, while also diving deep into the world of **Cybersecurity** and **Ethical Hacking**. I believe in building practical tools, learning by doing, and solving real-world problems through code.
+
+---
+
+## 🧠 Currently Learning
+
+- ✅ **JavaScript** — From basic to advanced concepts  
+- ✅ **HTML & CSS Projects** — Real-world UI/UX practice  
+- ✅ **Python Automation** — Scripts for web & system automation  
+- ✅ **Next.js** — Full-stack web framework with React  
+- ✅ **Cybersecurity Basics** — Ethical hacking, network spoofing, and secure coding  
+- ✅ **Flask** — Building secure backend apps  
+- ✅ **File System Projects** — File explorer, encryption, and user-auth systems  
+
+---
+
+
+---
+
+## 🎯 My Goal
+
+> To build real, impactful software that combines **security**, **usability**, and **performance**, while becoming a skilled **ethical hacker** and **full-stack developer**.
+
+---
